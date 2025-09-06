@@ -1,0 +1,11 @@
+# Build artifacts (compiled JS files) (regenerate with npm run build or tsc)
+dist
+
+# Node.js dependencies (regenerate with npm install)
+node_modules
+
+# Lock file for Node.js dependencies (regenerate with npm install)
+package-lock.json
+
+# IDE files
+.vscode

@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/inputmask": "^5.0.7",
+    "@types/jquery": "^3.5.33"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
